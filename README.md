@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dr Robin Kumar
+# 👋 Hi, I'm Robin Kumar
 
 ## 🚀 Full Stack Developer | Java & Python Enthusiast
 

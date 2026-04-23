@@ -101,7 +101,7 @@ I am an aspiring **Full Stack Developer** with an (MCA Graduate) and hands-on ex
 ## 📫 Connect With Me
 
 * 💼 GitHub: https://github.com/DrRobinKumar
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 📧 Email: robinkr1508@gmail.com
 
 ---
 
